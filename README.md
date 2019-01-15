@@ -25,3 +25,6 @@ Cross fingers and hope that you get improved download speeds. There is no guaran
 
 **(01/15/2019)**  
 Researching the topic only suggest to *edit* or *create* a `EACore.ini` file. The file now seems to be just `EACore` without extension
+
+**(01/15/2019)**  
+For some users it might help to change their DNS configuration to use Google's `8.8.8.8` or Cloudflare's `1.1.1.1` DNS
